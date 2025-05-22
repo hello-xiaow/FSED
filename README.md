@@ -1,6 +1,6 @@
 # 音效伪造数据集的构建与基准检测方法研究
 音效伪造检测数据集（Fake Sound Effect Dataset，FSED）<br>
-链接：https://pan.quark.cn/s/a138a1ff0dd2 提取码：usnS<br>
+链接：https://pan.quark.cn/s/a138a1ff0dd2<br>
 关于数据集的相关问题，可联系邮箱link_xiaow@163.com<br>
 
 ## 引用 
